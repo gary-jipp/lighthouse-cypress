@@ -34,8 +34,8 @@ npm install --save-dev cypress
 ```json
 {
   "baseUrl": "http://localhost:3000",
-  "viewportWidth": 1280,
-  "viewportHeight": 1200
+  "viewportWidth": 400,
+  "viewportHeight": 500
 }
 ```
 
