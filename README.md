@@ -5,4 +5,4 @@
 - [ ] Jest vs Cypress
 - [ ] Install and Configure Cypress
 - [ ] End-to-End Tests with Cypress
-- [ ] Network Intercepts & Fixture Data &
+- [ ] Network Intercepts & Fixture Data
